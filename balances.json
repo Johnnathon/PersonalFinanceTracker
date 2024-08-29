@@ -1,0 +1,15 @@
+{
+    "balance": 360.0,
+    "savings": 0.0,
+    "pay_schedule": {
+        "paycycle": "weekly",
+        "payday": "sun"
+    },
+    "bills": [
+        {
+            "title": "rent",
+            "cost": 2000.0,
+            "duedate": "01"
+        }
+    ]
+}
